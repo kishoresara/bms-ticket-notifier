@@ -272,22 +272,6 @@
       "price": "210.98",
       "status": "3"
     },
-    "CBMC|9672|20260720|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "02:30 PM",
-      "date": "20260720",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "2"
-    },
-    "CBMC|9672|20260720|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "02:30 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
-      "status": "3"
-    },
     "CBMC|9604|20260720|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
       "time": "03:30 PM",
@@ -331,22 +315,6 @@
     "CBMC|9605|20260720|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
       "time": "07:00 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "CBMC|9674|20260720|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "09:30 PM",
-      "date": "20260720",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "2"
-    },
-    "CBMC|9674|20260720|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "09:30 PM",
       "date": "20260720",
       "cat": "EXECUTIVE",
       "price": "210.98",
@@ -703,6 +671,30 @@
       "cat": "PREMIERE",
       "price": "66.74",
       "status": "2"
+    },
+    "PSKL|21849|20260720|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "10:30 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PSKL|21849|20260720|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "10:30 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "66.74",
+      "status": "0"
+    },
+    "VVGT|29723|20260720|ELITE": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "02:35 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "211.46",
+      "status": "3"
     }
   },
   "dates": {
